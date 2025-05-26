@@ -9,7 +9,7 @@
               /_/                            
 ```
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F75C03&center=true&vCenter=true&width=600&lines=La+community+italiana+per+DX;Dove+il+codice+incontra+la+creativit%C3%A0;Developers+%7C+Tools+%7C+Experience" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F75C03&center=true&vCenter=true&width=600&lines=La+community+italiana+sulla+DevEx;Dove+il+codice+incontra+la+creativit%C3%A0;Developers+%7C+Tools+%7C+Experience" alt="Typing SVG" />
 
 </div>
 
